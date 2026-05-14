@@ -2,11 +2,11 @@
 
 [![Update Wiki Content](https://github.com/ovishkh/HELLO/actions/workflows/update_wiki.yml/badge.svg)](https://github.com/ovishkh/HELLO/actions/workflows/update_wiki.yml)
 
-A high-end, Wikipedia-style replication of [ovishekh.com/wiki](https://ovishekh.com/wiki). This project features a premium design with modern typography, dark mode support, and an automated synchronization system that keeps the content in sync with the source.
+A high-end, Ovipedia-style replication of [ovishekh.com/wiki](https://ovishekh.com/wiki). This project features a premium design with modern typography, dark mode support, and an automated synchronization system that keeps the content in sync with the source.
 
 ## ✨ Features
 
-- **Premium Design**: A modern take on the classic Wikipedia aesthetic using **Inter** and **Playfair Display** typography.
+- **Premium Design**: A modern take on the classic Ovipedia aesthetic using **Inter** and **Playfair Display** typography.
 - **Automated Scraping**: Built-in Node.js scraper that pulls the latest content, sections, and references from the live site.
 - **Continuous Sync**: GitHub Actions workflow that runs daily to ensure your copy is always up to date.
 - **Dark Mode**: Sleek, high-contrast dark theme for better readability.
@@ -56,7 +56,7 @@ A high-end, Wikipedia-style replication of [ovishekh.com/wiki](https://ovishekh.
 
 ## 📝 License
 
-This project is open-source and available under the MIT License. Text content follows the Creative Commons Attribution-ShareAlike License as per Wikipedia standards.
+This project is open-source and available under the MIT License. Text content follows the Creative Commons Attribution-ShareAlike License as per Ovipedia standards.
 
 ---
 Created with ❤️ by Antigravity AI for Ovi Shekh.

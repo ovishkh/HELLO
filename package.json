@@ -1,7 +1,7 @@
 {
   "name": "ovi-wiki-copy",
   "version": "1.0.0",
-  "description": "A perfect copy of ovishekh.com/wiki in Wikipedia style",
+  "description": "A perfect copy of ovishekh.com/wiki in Ovipedia style",
   "main": "update_wiki.js",
   "scripts": {
     "update": "node update_wiki.js",
